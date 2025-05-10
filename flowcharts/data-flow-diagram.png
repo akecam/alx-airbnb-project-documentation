@@ -1,0 +1,8 @@
+# Booking Process Flow
+
+1. Search properties
+2. Select dates/guests
+3. Payment authorization
+4. Database reservation
+5. Confirmation email
+6. Calendar sync
