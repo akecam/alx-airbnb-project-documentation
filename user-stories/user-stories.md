@@ -1,7 +1,5 @@
 ## Core User Stories
 
-1. As a new user, I want to register with email/OAuth to access platform features.
-2. As a host, I want to upload property photos to showcase my listing effectively. 
-3. As a guest, I need calendar availability checks to avoid booking conflicts.
-4. As a user, I want SSL-secured payments for financial safety.
-5. As an admin, I require dashboard analytics to monitor platform health.
+1. As a new user, I want to be able to browse available properties within my location, register and  and book properties.
+2. As a host, I want to be able to register, list my properties, receive payments and withdraw
+3. As an Admin, I want to be able to manage propertiess, users, and bookings or the users (registered or un-registered) and payment issues.
