@@ -74,9 +74,9 @@ This document outlines the key features and functionalities required for the Air
   * Unit and Integration Tests using frameworks like pytest
   * Automated API Testing for ensuring endpoint functionality
 
-## Features and Functionalities Diagram
+## Features and Functionalities (Use Case Diagram)
 
-[Project_features_and_requirement drawio](https://github.com/user-attachments/assets/228f2ba0-473c-4df2-bc59-293567505f50)
 
+![features_and_functionalities_1_](https://github.com/user-attachments/assets/c6bcd9b8-61aa-4be4-9c9c-e643ad61b8b2)
 
 
