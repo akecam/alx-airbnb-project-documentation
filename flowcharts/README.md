@@ -13,4 +13,5 @@
 
 # Property Flowchart
 
-![payment_processing](https://github.com/user-attachments/assets/ccc93cf2-5cb9-4727-9d10-559bb74b693c)
+![property_booking_workflow](https://github.com/user-attachments/assets/aa95575d-9e0f-4a21-8020-11449f9bbddf)
+
